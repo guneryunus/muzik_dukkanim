@@ -1,0 +1,38 @@
+.img {
+height: 200px;
+width: 200px;
+border-radius: 60px;
+}
+/* .back-ground {
+    background-color: #EFDAD7;
+} */
+
+ul{
+    list-style: none;
+    display: block;
+}
+ul li{
+    display: inline;
+    position: relative;
+    padding: 15px; 
+}
+
+.ortala {
+    text-align: center;
+  }
+
+h2 {
+      color:#B762C1;
+  }
+
+div#deneme {
+    color: red;
+}
+
+h1 {
+    color:red;
+}
+
+h3 {
+   color: #feb236
+}
